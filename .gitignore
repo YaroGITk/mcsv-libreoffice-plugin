@@ -1,0 +1,54 @@
+# Кэш Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Виртуальные окружения
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Дистрибуция и сборка
+build/
+dist/
+var/
+eggs/
+*.egg-info/
+MANIFEST
+
+# Логи и тесты
+*.log
+htmlcov/
+.tox/
+.coverage
+.pytest_cache/
+
+# Базы данных
+*.sqlite3
+*.db
+
+# Настройки IDE (PyCharm, VS Code)
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Операционная система
+.DS_Store
+Thumbs.db
+._*
+__MACOSX/
+
+# Готовые сборки и журналы
+dist/
+tests/
+examples/
+*.oxt
+*.log

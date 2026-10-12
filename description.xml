@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<description
+    xmlns="http://openoffice.org/extensions/description/2006"
+    xmlns:d="http://openoffice.org/extensions/description/2006"
+    xmlns:l="http://libreoffice.org/extensions/description/2011"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+
+    <identifier value="org.csvworkspace"/>
+
+    <display-name>
+        <name lang="en">MCSV Workspace</name>
+        <name lang="ru">MCSV Workspace</name>
+    </display-name>
+
+    <publisher>
+        <name lang="en">MCSV Workspace</name>
+        <name lang="ru">MCSV Workspace</name>
+    </publisher>
+
+    <dependencies>
+        <l:LibreOffice-minimal-version
+            d:name="LibreOffice 7.6"
+            value="7.6"/>
+    </dependencies>
+
+</description>

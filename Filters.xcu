@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oor:component-data xmlns:oor="http://openoffice.org/2001/registry" xmlns:xs="http://www.w3.org/2001/XMLSchema" oor:name="Filter" oor:package="org.openoffice.TypeDetection">
+  <node oor:name="Filters">
+    <node oor:name="MCSV Workspace" oor:op="replace">
+      <prop oor:name="UIName"><value xml:lang="en-US">MCSV Workspace (.mcsv)</value><value xml:lang="ru">Набор CSV (.mcsv)</value></prop>
+      <prop oor:name="Type"><value>org.csvworkspace.mcsv</value></prop>
+      <prop oor:name="DocumentService"><value>com.sun.star.sheet.SpreadsheetDocument</value></prop>
+      <prop oor:name="FilterService"><value>org.csvworkspace.MCSVFilter</value></prop>
+      <prop oor:name="Flags"><value>IMPORT EXPORT ALIEN 3RDPARTYFILTER</value></prop>
+      <prop oor:name="FileFormatVersion"><value>1</value></prop>
+      <prop oor:name="UserData"><value></value></prop>
+      <prop oor:name="TemplateName"><value></value></prop>
+    </node>
+  </node>
+</oor:component-data>
