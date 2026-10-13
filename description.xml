@@ -8,6 +8,8 @@
 
     <identifier value="org.csvworkspace"/>
 
+    <version value="2.2.1"/>
+
     <display-name>
         <name lang="en">MCSV Workspace</name>
         <name lang="ru">MCSV Workspace</name>
